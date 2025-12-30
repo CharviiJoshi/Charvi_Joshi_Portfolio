@@ -1,39 +1,111 @@
-# <a href="https://vinodjangid07.github.io/" target="_blank">My Portfolio</a>
-<p align="justify">This website displays my Projects, Web presence, Story, Work experience, and contact information.</p>
+# Charvi Joshi | Portfolio
 
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/vinodjangid07/vinodjangid07.github.io)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://vinodjangid07.github.io/)
-[![Author](https://img.shields.io/badge/Author-Vinod%20Jangid-purple.svg)](https://www.instagram.com/its_.me._vinod?igshid=YmMyMTA2MsY%3D)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-11%20Jan%202024-yellow.svg)](https://github.com/vinodjangid07/vinodjangid07.github.io)
-<a href="https://github.com/vinodjangid07/vinodjangid07.github.io/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
+<p align="center">
+  <b>Computer Science Student | Building Technology with Leadership and Purpose</b>
+</p>
 
-<img width="100%" alt="Portfolio Screenshot" src="https://github.com/vinodjangid07/vinodjangid07.github.io/assets/86096184/fd0d70b2-1505-4adf-8b0c-427df58607e3">
+<p align="center">
+  <a href="https://charvijoshiresume.netlify.app/" target="_blank">View Live Portfolio</a>
+</p>
+
+---
+
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/CharviiJoshi/Charvi_Joshi_Portfolio)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://charvijoshiresume.netlify.app/)
+[![Author](https://img.shields.io/badge/Author-Charvi%20Joshi-purple.svg)](https://www.linkedin.com/in/charvi-joshi-615a23325/)
+
+---
+
+## About Me
+
+I'm **Charvi Joshi**, a second-year B.Tech Computer Science student at **SGSITS Indore** with a strong foundation in Data Structures, Web Development, and System Design. I'm deeply interested in building efficient and scalable software solutions.
+
+- **CGPA:** 8.52 | **Class 12:** 92.4% (School Topper) | **Class 10:** 98.8% (Indore City Topper)
+- **NCC 'B' Certificate Cadet** & **Coding Club Member**
+- **Placement Coordinator** at Training & Placement Cell, SGSITS
+- **Open Source Contributor** at GirlScript Summer of Code (GSSOC '25)
+- **IIT Indore Fluxus Hackathon Finalist** (Top 10 Teams)
+
+---
+
+## Sections
+
+- **Home** – Introduction with animated hero section
+- **About Me** – Background, skills summary, and resume download
+- **Education** – Academic achievements and milestones
+- **Skills** – Tech stack and tool proficiencies
+- **Certifications** – Professional certificates and achievements
+- **Experience** – Work experience and leadership roles
+- **Projects** – Featured projects with live demos
+- **Contact** – Get in touch via email or social media
+
+---
+
+## Tech Stack
+
+| Category | Technologies |
+|----------|-------------|
+| **Frontend** | HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS |
+| **Backend** | Node.js, PHP |
+| **Languages** | C, C++, Java, Python |
+| **Database** | SQL, NoSQL |
+| **Tools** | Git, GitHub, Figma |
+| **Concepts** | Data Structures & Algorithms (DSA) |
+
+---
+
+## Features
+
+- **Dark/Light Mode** – Toggle between themes for comfortable viewing
+- **Sound Effects** – Interactive audio feedback
+- **Fully Responsive** – Works seamlessly on all devices
+- **Smooth Animations** – AOS (Animate on Scroll) library integration
+- **Custom Cursor** – Unique cursor design for desktop
+- **Modern UI/UX** – Clean, professional design with glassmorphism effects
+
+---
 
 
-:star: Star me on GitHub — it helps!
 
-# Sections 📚
+## Installation & Setup
 
-✔️ Mini intro\
-✔️ About me \
-✔️ Skills\
-✔️ Projects\
-✔️ Contact me
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/CharviiJoshi/Charvi_Joshi_Portfolio.git
+   cd Charvi_Joshi_Portfolio
+   ```
 
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> according to your requirement.
-- ⚠️ Remove my Bitmoji <img src="https://github.com/vinodjangid07/vinodjangid07.github.io/assets/86096184/05e5b2d6-8b38-4cf9-a5a3-eb63e81aab1d" width="20px"> from the navbar/footer and use yours instead.⚠️
-- Add or remove images from `https://www.vinodjangid.me/src/` directory as per your requirement.
-- ⚠️<b>NOTE:</b> Make sure to remove `analyticsId` & `google search console Id` from `<head>` tag, and set yours, if you want to use your own Google Analytics & search console account.⚠️
+2. **Open in browser**
+   - Simply open `index.html` in your preferred web browser
+   - Or use a local server like Live Server extension in VS Code
 
+3. **For customization**
+   - Modify content in `index.html`
+   - Update styles in `style.css`
+   - Add/remove assets in the `src/` directory
 
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+---
 
-## Tools Used 🛠️
-* [<b>GitHub</b>](https://github.com/) - To host my static website (HTML, CSS, JS).
-* [<b>Animate on scroll library</b>](https://github.com/michalsnik/aos) - To animate my website while scrolling.
-* [<b>Animista</b>](https://animista.net/) - To use Interactive animations
+## Tools & Libraries Used
 
+| Tool | Purpose |
+|------|---------|
+| [AOS Library](https://github.com/michalsnik/aos) | Animate on Scroll effects |
+| [Google Fonts](https://fonts.google.com/) | Typography (Orbitron, Fira Code, etc.) |
+| [Netlify](https://www.netlify.com/) | Deployment & Hosting |
 
-Please contact me at infovinodjangid@gmail.com if you have any feedback for the website. :star: Star it, if you like it!
+---
+
+## Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/charvi-joshi-615a23325/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/CharviiJoshi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:charvijoshi70@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
+---
+
+<p align="center">
+  <b>"Learning, Living, and Leveling Up."</b>
+</p>
