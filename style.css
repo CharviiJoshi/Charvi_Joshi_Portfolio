@@ -378,7 +378,8 @@ noscript {
 
 .navbar-tabs {
     display: flex;
-    width: 80%
+    width: 80%;
+    margin-left: 10px
 }
 
 .navbar-tabs-ul {
@@ -386,7 +387,7 @@ noscript {
     display: flex;
     list-style: none;
     justify-content: flex-end;
-    gap: 80px;
+    gap: 50px;
     color: var(--color-white)
 }
 
@@ -420,7 +421,9 @@ noscript {
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
-    user-select: none
+    user-select: none;
+    margin-right: 20px;
+    min-width: 60px
 }
 
 .face,
@@ -488,7 +491,9 @@ noscript {
 
 .logo-top img {
     height: 100%;
-    z-index: 2
+    z-index: 2;
+    max-width: 100%;
+    object-fit: contain
 }
 
 .face {
@@ -1053,6 +1058,11 @@ noscript {
     justify-content: center
 }
 
+#certifications {
+    padding-top: 75px;
+    padding-bottom: 200px
+}
+
 .language-speak,
 .tech-stack-wrapper {
     width: 100%;
@@ -1257,7 +1267,7 @@ footer {
 }
 
 .projects-section-container {
-    padding: 150px 0;
+    padding: 150px 0 75px 0;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -1355,7 +1365,21 @@ footer {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    gap: 20px
+    gap: 20px;
+    flex-wrap: wrap
+}
+
+.education-card .project-buttons {
+    margin-top: 15px;
+    gap: 15px
+}
+
+.education-card .cta {
+    padding: 10px 14px
+}
+
+.education-card .cta span {
+    font-size: 1.4rem
 }
 
 .github-redirect {
@@ -1982,7 +2006,9 @@ footer {
     }
 
     .logo {
-        width: 18%
+        width: 18%;
+        margin-right: 15px;
+        min-width: 50px
     }
 
     .logo:hover {
